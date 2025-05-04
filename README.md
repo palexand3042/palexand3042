@@ -1,5 +1,6 @@
 # About me
 
+⚡ My name is Paul
 
 🔭 I’m currently working on a web site for the Sun City Bike Club
 🌱 I’m currently learning how to use github to do this.
